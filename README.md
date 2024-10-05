@@ -1,2 +1,3 @@
-# computer-science-III
-This repository is for computer science III course 
+# Computer science III
+## Repository content 
+In this repository you will find  the workshops that are the tasks assigned throughout the computing science III
